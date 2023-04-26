@@ -1,0 +1,59 @@
+.music-card{
+    background-color: black;
+    color: white;
+}
+
+.card{
+    margin-bottom: 4%;
+}
+
+.car-text{
+    display: flex;
+    flex-direction: column;
+    margin-left: 9%;
+    margin-right: 9%;
+}
+
+.card-content{
+    display: flex;
+    margin-left: 9%;
+}
+
+.image-div{
+    margin-top: 1%;
+}
+
+.post-malone-img{
+    width: 100%;
+}
+
+.card-content-description{
+    display: flex;
+    flex-direction: column;
+    margin-left: 3%;
+    margin-top: 27%;
+    font-size: 15px;
+    line-height: 28px;
+}
+
+.album-name-txt{
+    font-size: 25px;
+    font-weight: 600;
+    padding-bottom: 4%;
+}
+
+.card-id-txt{
+    font-size: 18px;
+    line-height: 25.2px;
+}
+
+.card-year-txt{
+    font-size: 18px;
+    line-height: 25.2px;
+    padding-left: 20px;
+}
+
+.card-txt{
+    font-size: 18px;
+    line-height: 25.2px;
+}

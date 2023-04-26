@@ -1,0 +1,30 @@
+
+.main-section{
+    display: flex;
+    width: 100%;
+}
+
+.side-bar-page{
+    width: 17%;
+}
+
+.overview-page{
+    width: 83%;
+}
+
+.main-div{
+    padding-top: 64px;
+    padding-bottom: 64px;
+    width: 100%;
+}
+
+.conatiner{
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.box-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}

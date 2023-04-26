@@ -1,0 +1,49 @@
+
+.Navbar-div{
+    width: 100%;
+    background: rgba(255, 255, 255, 0.2);
+     backdrop-filter: blur(8px);
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+}
+
+.nav-title{
+    margin-left: 10%;
+    letter-spacing: 1.5px;
+    width: 60%;
+}
+
+.list-items-div{
+    list-style-type: none;
+    display: flex;
+    /* width: 81%; */
+    /* margin-right: 14%; */
+    justify-content: space-evenly;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    width: 40%;
+}
+
+.Description-div{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 7%;
+    margin-left: 11%;
+}
+
+.description-column-div{
+    display: flex;
+    flex-direction: column;
+    margin-left: 7%;
+}
+
+.description-title{
+    font-size: 37px;
+}
+
+.dscription-para{
+    width: 85%;
+    font-size: 22px;
+}

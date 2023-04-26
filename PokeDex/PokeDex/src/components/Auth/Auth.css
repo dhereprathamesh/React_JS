@@ -1,0 +1,39 @@
+
+.main-page{
+    display: flex;
+    width: 100%;
+}
+
+.login-page-content{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.login-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5rem;
+}
+.register-name-span{
+color: blue;
+cursor: pointer;
+}
+
+.input-area{
+    margin: 2rem;
+}
+
+.input-div{
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+  
+.Textfield-div{
+  display: flex;
+    justify-content: center;
+    margin: 1rem;
+}
